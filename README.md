@@ -27,6 +27,7 @@ port for 5555.
 | AMQP_PASSWORD | Rabbitmq broker password | guest |
 | AMQP_HOST | Rabbitmq host | 172.17.42.1 |
 | AMQP_PORT | Rabbitmq port | 5672 |
+| AMQP_VHOST | Rabbitmq vhost (e.g. /vhost) | |
 | AMQP_ADMIN_USERNAME | Rabbitmq admin username | guest |
 | AMQP_ADMIN_PASSWORD | Rabbitmq admin password | guest |
 | AMQP_ADMIN_HOST | Rabbitmq admin host | 172.17.42.1 |
